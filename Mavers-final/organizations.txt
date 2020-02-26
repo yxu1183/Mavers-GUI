@@ -1,0 +1,8 @@
+UTA Volunteers,Service/Social,Joe Smith,55,10
+International Student Association,Cultural/International,Kayla Kay,30,10
+Freshmen Leaders on Campus,Social/Special Interest,Sheryoshii Endow,60,0
+Excel Campus Activities,Social/Special Interest,Cali Duncan,76,0
+Alpha Lamda Delta,Recognition Societies/Sororities,Karissa Cordero,36,10
+Honors College Council,Recognition Societies,Larry David,40,0
+Accounting Society,Academics,Johan Paul,74,20
+Engineering Student Council,Academics,Rajvi Tiwari,46,10
