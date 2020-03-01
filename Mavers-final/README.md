@@ -5,7 +5,7 @@ A campus organization event posting board for staffs and students.
 
 ## Functionality
 * The application provides flexiblity in adding, updating, and deleting events for organizations. 
-* It privileges students to search for campus events as per their need, and also allows them to register for the organization of their choice. 
+* It privileges students to search for campus events and also allows them to register for the organization of their choice. 
 
 ## What I learned
 * Use of object oriented programming to approach a problem.
