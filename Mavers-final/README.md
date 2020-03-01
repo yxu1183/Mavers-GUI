@@ -1,7 +1,7 @@
 # Mavers-GUI
 
 ## Overview
-A campus organization events posting board for organizations and students.
+A campus organization event posting board for staffs and students.
 
 ## Functionality
 * The application provides flexiblity in adding, updating, and deleting events for organizations. 
