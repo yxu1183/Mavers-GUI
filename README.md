@@ -10,7 +10,7 @@ A campus organization event posting board for staffs and students.
 ## What I learned
 * Use of object oriented programming to approach a problem.
 * Use of [gtkmm 3](https://developer.gnome.org/gtkmm-tutorial/stable/) to create user interfaces.
-* Combining GUI and non-GUI parts of a program together. 
+* Combining GUI and non-GUI parts together. 
 
 ## Compilation Instructions
 The application is built in a Lubuntu virtual machine.
